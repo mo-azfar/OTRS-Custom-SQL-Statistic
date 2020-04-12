@@ -15,7 +15,8 @@ b) Example of result
 [![download2.png](https://i.postimg.cc/ryv5HfBX/download2.png)](https://postimg.cc/V5WSrWsD)  
 
 
-4. Additionally, you can also do the SQL query on based CMDB Config Item.  
+4. Additionally, you can also do the SQL query on based CMDB Config Item.
+*SQL NOT ATTACHED HERE*
 The idea is :
 
 a) CREATE TEMPORARY TABLE configitem_own_data  
